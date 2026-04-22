@@ -1,6 +1,6 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "USDT",
+  "address": "0xe96f0660374a6b84ce78973515d004710ae7387d",
   "overview":{
         "en": "Token Description.",
         "zh": ""
